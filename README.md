@@ -11,5 +11,7 @@ THROUGH CONVOLUTIONAL NEURAL NETWORKS" by Makantasis et al.
 Description of the repository
 
 1) Run the notebook "CreatetheDatasets", in order to create the Xtrain, Xtest, ytrain, ytest matrices. Matrices are saved in a numpy format.
+
 2)Run the notebook "TrainTheModel", in order to train the model. The model is being saved including the weights.
+
 3)Run the "Validation+ClassificationMaps", for validating the model and creating the clasification map.
