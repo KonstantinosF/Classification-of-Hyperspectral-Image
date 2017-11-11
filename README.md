@@ -5,7 +5,7 @@ Hyperspectral images are images captured in hundrends of bands of the electromag
 
 Most of the existing studies and research efforts are following the conventional pattern recognition paradigm, which is based on the construction of complex handcrafted features. However, it is rarely known which features are important for the problem at hand. In contrast to these approaches, a deep learning based classification method that hierarchically constructs high-level features in an automated way, is proposed. In this project, exploitation of a Convolutional Neural Network, is taking part, to encode pixels’ spectral and spatial information and a Multi-Layer Perceptron to conduct the classification task.
 
-This project is based upon the paper "DEEP SUPERVISED LEARNING FOR HYPERSPECTRAL DATA CLASSIFICATION
+This project is based on the paper "DEEP SUPERVISED LEARNING FOR HYPERSPECTRAL DATA CLASSIFICATION
 THROUGH CONVOLUTIONAL NEURAL NETWORKS" by Makantasis et al.
 
 Description of the repository
