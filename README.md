@@ -17,3 +17,9 @@ Description of the repository
 2) Run the notebook "TrainTheModel", in order to train the model. The model is being saved including the weights.
 
 3) Run the "Validation+ClassificationMaps", for validating the model and creating the clasification map.
+
+
+This is a test!!
+
+![indian_pines](/images/indian_pines.jpeg)
+Format: ![Alt Text](url)
