@@ -19,7 +19,5 @@ Description of the repository
 3) Run the "Validation+ClassificationMaps", for validating the model and creating the clasification map.
 
 
-This is a test!!
 
 ![indian_pines](/images/indian_pines.jpeg)
-Format: ![Alt Text](url)
