@@ -18,9 +18,17 @@ Description of the repository
 
 3) Run the "Validation+ClassificationMaps", for validating the model and creating the clasification map.
 
-
+|Number of Principal Components |
+| ----------------------------- |
 | Patch Size | Overall Accuracy |
 | ---------- | ---------------- |
 |   5x5      | 83%              |
+| ---------- | ---------------- |
+|7x7         | 88%              |
+| ---------- | ---------------- |
+| 9x9        | 94%              |
+| ---------- | ---------------- |
+|11x11       | 95%              |
+| ---------- | ---------------- |
 
 ![indian_pines](/images/indian_pines.jpeg)
