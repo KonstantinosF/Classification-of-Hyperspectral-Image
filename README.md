@@ -18,8 +18,7 @@ Description of the repository
 
 3) Run the "Validation+ClassificationMaps", for validating the model and creating the clasification map.
 
-|Number of Principal Components |
-| ----------------------------- |
+
 | Patch Size | Overall Accuracy |
 | ---------- | ---------------- |
 |   5x5      | 83%              |
