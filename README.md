@@ -19,5 +19,9 @@ Description of the repository
 3) Run the "Validation+ClassificationMaps", for validating the model and creating the clasification map.
 
 
+|           Overall Accuracy                 |
+|--------------------------------------------|
+|Patch size| 5x5 | 7x7 | 9x9 | 11x11 | 15x15 |
+|          | 83% | 88% | 94% |  95%  |  97%  | 
 
 ![indian_pines](/images/indian_pines.jpeg)
