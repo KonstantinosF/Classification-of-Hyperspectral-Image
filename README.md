@@ -20,7 +20,7 @@ Description of the repository
 
 
 | Patch Size | Overall Accuracy |
-| ---------- | ---------------- |
+|   :---:    | :---:            |
 |   5x5      | 83%              |
 |7x7         | 88%              |
 | 9x9        | 94%              |
