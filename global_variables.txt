@@ -1,0 +1,3 @@
+windowSize = 5
+numPCAcomponents = 30
+testRatio = 0.25
