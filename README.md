@@ -36,4 +36,3 @@ Description of the repository
 ![CNN_Architecture](./images/CNN_Architecture.jpeg)
 
 
-![indian_pines](./images/ground_truth.jpeg)
