@@ -33,7 +33,7 @@ Description of the repository
 
 
 
-![CNN_Architecture](./images/CNN_Architecture.jpeg = 100x20)
+![CNN_Architecture](./images/CNN_Architecture.jpeg)
 
 
 ![indian_pines](./images/ground_truth.jpeg)
